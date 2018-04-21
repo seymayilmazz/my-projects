@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 
 ```
- ![Image](https://github.com/seymayilmazz/my-projects/blob/master/1.png)
+ ![Image](https://raw.githubusercontent.com/seymayilmazz/my-projects/master/1.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
